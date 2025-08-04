@@ -8,7 +8,7 @@ O desenvolvimento ocorreu no **Módulo 2** do bootcamp, que abordou `Operadores 
 
 ## Conceitos de Python Abordados com Exemplos do Código
 
-Durante a implementação do `sistema_bancario_v1.py`, os seguintes conceitos de Python foram utilizados:
+Durante a implementação do `Criando um Sistema Bancário com Python - Sistema_Bancario_v1`, os seguintes conceitos de Python foram utilizados:
 
 ### Tipos de Dados
 
@@ -119,7 +119,7 @@ Diversos operadores são empregados para realizar cálculos e comparações:
 
 ## Regras de Negócio do Sistema Bancário (v1)
 
-O sistema `sistema_bancario_v1.py` adere estritamente às seguintes regras de negócio:
+O sistema `Criando um Sistema Bancário com Python - Sistema_Bancario_v1` adere estritamente às seguintes regras de negócio:
 
 ### Operação de Depósito
 -   **Valores Positivos**: Apenas valores maiores que zero são aceitos para depósito.
@@ -186,19 +186,19 @@ O sistema `sistema_bancario_v1.py` adere estritamente às seguintes regras de ne
 Para executar este sistema bancário:
 
 1.  Certifique-se de ter o Python (versão 3.x) instalado em sua máquina.
-2.  Salve o código fornecido como `sistema_bancario_v1.py`.
+2.  Salve o código fornecido como `Criando um Sistema Bancário com Python - Sistema_Bancario_v1`.
 3.  Abra um terminal ou prompt de comando.
 4.  Navegue até o diretório onde você salvou o arquivo.
 5.  Execute o comando:
     ```bash
-    python sistema_bancario_v1.py
+    python Criando um Sistema Bancário com Python - Sistema_Bancario_v1
     ```
 
 O sistema apresentará um menu interativo no console, permitindo que você realize as operações bancárias.
 
 ## Estrutura do Código
 
-O código é contido em um único arquivo `sistema_bancario_v1.py`, com variáveis globais para o estado do sistema (saldo, extrato, contadores) e um loop `while` para o menu principal. A lógica de cada operação é tratada por blocos `if/elif`.
+O código é contido em um único arquivo `Criando um Sistema Bancário com Python - Sistema_Bancario_v1`, com variáveis globais para o estado do sistema (saldo, extrato, contadores) e um loop `while` para o menu principal. A lógica de cada operação é tratada por blocos `if/elif`.
 
 ```
 .  
