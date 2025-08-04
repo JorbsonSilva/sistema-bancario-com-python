@@ -14,9 +14,9 @@ A V2 do sistema bancário foi desenvolvida após a conclusão do **Módulo 3 - E
 
 O principal objetivo da V2 foi aprimorar a estrutura do código existente, refatorando as operações de saque, depósito e extrato em funções dedicadas. Adicionalmente, para aprimorar a gestão de clientes e contas, foram implementadas duas novas funcionalidades essenciais: o cadastro de usuários e a criação de contas correntes, com a devida vinculação entre eles.
 
-## Conceitos de Python Abordados na V2 com Exemplos do Código (`sistema_bancario_v2.py`)
+## Conceitos de Python Abordados na V2 com Exemplos do Código (`Otimizando o Sistema Bancário com Funções Python - Sistema_Bancario_v2`)
 
-Esta seção detalha os conceitos de Python aplicados na V2, com exemplos diretos do arquivo `sistema_bancario_v2.py`.
+Esta seção detalha os conceitos de Python aplicados na V2, com exemplos diretos do arquivo `Otimizando o Sistema Bancário com Funções Python - Sistema_Bancario_v2`.
 
 ### Funções
 
@@ -107,7 +107,7 @@ A V2 introduz o uso de estruturas de dados mais complexas, como listas aninhadas
     ```
     Esta abordagem permite que um usuário tenha múltiplas contas, cada uma com seus próprios detalhes (agência, número), e que essas contas sejam facilmente acessíveis através do perfil do usuário.
 
-### Regras de Negócio da V2 (`sistema_bancario_v2.py`)
+### Regras de Negócio da V2 (`Otimizando o Sistema Bancário com Funções Python - Sistema_Bancario_v2`)
 
 A V2 mantém as regras de negócio da V1 para depósito, saque e extrato, mas as implementa através de funções, adicionando as seguintes regras para gerenciamento de usuários e contas:
 
@@ -176,7 +176,7 @@ O sistema apresentará um menu inicial interativo no console, permitindo que voc
 
 ## Estrutura do Código
 
-O código da V2 (`sistema_bancario_v2.py`) é mais modular e organizado em comparação com a V1. As variáveis de estado do sistema (saldo, extrato, contadores, lista de usuários e número de conta) ainda são globais, mas a lógica operacional está bem encapsulada em funções.
+O código da V2 (`Otimizando o Sistema Bancário com Funções Python - Sistema_Bancario_v2`) é mais modular e organizado em comparação com a V1. As variáveis de estado do sistema (saldo, extrato, contadores, lista de usuários e número de conta) ainda são globais, mas a lógica operacional está bem encapsulada em funções.
 
 ```
 .  
