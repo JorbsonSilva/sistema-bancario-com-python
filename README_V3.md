@@ -27,9 +27,9 @@ O principal objetivo da V3 é refatorar o sistema bancário para utilizar um mod
 
 
 
-## Conceitos de Python Abordados na V3 com Exemplos do Código (`sistema_bancario_v3.py`)
+## Conceitos de Python Abordados na V3 com Exemplos do Código (`Modelando o Sistema Bancário em POO com Python - Sistema_Bancario_v3`)
 
-Esta seção detalha os conceitos de Python aplicados na V3, com exemplos diretos do arquivo `sistema_bancario_v3.py`, com foco na Programação Orientada a Objetos (POO).
+Esta seção detalha os conceitos de Python aplicados na V3, com exemplos diretos do arquivo `Modelando o Sistema Bancário em POO com Python - Sistema_Bancario_v3`, com foco na Programação Orientada a Objetos (POO).
 
 ### Classes e Objetos
 
@@ -232,12 +232,12 @@ A V3 mantém as regras de negócio das versões anteriores, mas as implementa e 
 Para executar a V3 do sistema bancário:
 
 1.  Certifique-se de ter o Python (versão 3.x) instalado em sua máquina.
-2.  Salve o código fornecido como `sistema_bancario_v3.py`.
+2.  Salve o código fornecido como `Modelando o Sistema Bancário em POO com Python - Sistema_Bancario_v3`.
 3.  Abra um terminal ou prompt de comando.
 4.  Navegue até o diretório onde você salvou o arquivo.
 5.  Execute o comando:
     ```bash
-    python sistema_bancario_v3.py
+    python Modelando o Sistema Bancário em POO com Python - Sistema_Bancario_v3
     ```
 
 O sistema apresentará um menu inicial interativo no console, permitindo que você realize as operações bancárias, cadastre usuários e crie contas, tudo gerenciado por objetos.
@@ -247,7 +247,7 @@ O sistema apresentará um menu inicial interativo no console, permitindo que voc
 
 ## Estrutura do Código
 
-O código da V3 (`sistema_bancario_v3.py`) é estruturado em classes que representam as entidades do domínio bancário, seguindo o diagrama UML. As interações são realizadas através de métodos dessas classes, e o fluxo principal do programa coordena as chamadas a esses métodos e a manipulação dos objetos.
+O código da V3 (`Modelando o Sistema Bancário em POO com Python - Sistema_Bancario_v3`) é estruturado em classes que representam as entidades do domínio bancário, seguindo o diagrama UML. As interações são realizadas através de métodos dessas classes, e o fluxo principal do programa coordena as chamadas a esses métodos e a manipulação dos objetos.
 
 ```
 .  
